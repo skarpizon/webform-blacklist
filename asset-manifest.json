@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/webform-blacklist/static/css/main.ff0a3c61.chunk.css",
+    "main.js": "/webform-blacklist/static/js/main.abe913a5.chunk.js",
+    "runtime~main.js": "/webform-blacklist/static/js/runtime~main.12e14963.js",
+    "static/js/2.0fd87874.chunk.js": "/webform-blacklist/static/js/2.0fd87874.chunk.js",
+    "index.html": "/webform-blacklist/index.html",
+    "precache-manifest.a2f05a1a07db88488bf2365252c6054b.js": "/webform-blacklist/precache-manifest.a2f05a1a07db88488bf2365252c6054b.js",
+    "service-worker.js": "/webform-blacklist/service-worker.js"
+  }
+}
